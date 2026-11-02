@@ -1,0 +1,9 @@
+# Only these release files belong in this repository.
+*
+!.gitignore
+!README.md
+!skills/
+!skills/cha-cuo/
+!skills/cha-cuo/SKILL.md
+!skills/cha-cuo/agents/
+!skills/cha-cuo/agents/openai.yaml
